@@ -1,15 +1,3 @@
-# http://docs.ggplot2.org/0.9.3.1/geom_bar.html
-# https://cran.rstudio.com/web/packages/dplyr/vignettes/introduction.html
-# http://docs.ggplot2.org/current/scale_brewer.html
-# http://stackoverflow.com/questions/16074440/r-ggplot2-center-align-a-multi-line-title
-# http://docs.ggplot2.org/current/scale_brewer.html
-# https://learnr.wordpress.com/2010/01/26/ggplot2-quick-heatmap-plotting/
-# https://www.r-bloggers.com/ggplot2-quick-heatmap-plotting/
-# http://blog.qiubio.com:8080/archives/2477
-# http://www.geo.ut.ee/aasa/LOOM02331/heatmap_in_R.html
-# http://stackoverflow.com/questions/24265652/label-minimum-and-maximum-of-scale-fill-gradient-legend-with-text-ggplot2
-# http://www.sthda.com/english/wiki/ggplot2-quick-correlation-matrix-heatmap-r-software-and-data-visualization
-# reference : https://www.kaggle.com/vadimnazarov/d/gregorut/videogamesales/exploratory-data-analysis-of-video-game-sales/comments
 library(ggplot2) # Data visualization
 library(readr) # CSV file I/O, e.g. the read_csv function
 library(dplyr)
