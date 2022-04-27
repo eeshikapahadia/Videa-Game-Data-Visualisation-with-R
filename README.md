@@ -1,1 +1,2 @@
-# Video-Game-Data-Visualisation-with-R
+# Video-Game-Data-Visualization-with-R
+
